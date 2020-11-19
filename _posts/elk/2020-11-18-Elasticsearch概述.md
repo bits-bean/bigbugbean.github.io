@@ -1,6 +1,6 @@
 ---
-title: CPU
-tags: Elasticsearch,elk
+title: Elasticsearch概述
+tags: Elasticsearch elk
 typora-copy-images-to: ..\..\assets\blog_img
 typora-root-url: ..\..
 ---
