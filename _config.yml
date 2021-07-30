@@ -122,8 +122,8 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 3bb4cf375fdbb2abbfde
-    clientSecret: 7cb7a498bbf09587aaeb7020ce76b17172d102f4
+    clientID    : 23e72249bddab717a337
+    clientSecret: dc969e6eb5879c35ccd1fcdb5804164b0febf656
     repository  : bigbugbean.github.io
     owner       : bigbugbean
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
